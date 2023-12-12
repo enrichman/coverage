@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/enrichman/coverage/math"
+	math "github.com/enrichman/coverage/math_01"
 )
 
 func main() {

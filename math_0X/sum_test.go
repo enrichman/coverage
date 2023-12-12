@@ -1,9 +1,9 @@
-package math_test
+package math_02_test
 
 import (
 	"testing"
 
-	"github.com/enrichman/coverage/math"
+	math "github.com/enrichman/coverage/math_02"
 )
 
 func TestSum(t *testing.T) {
